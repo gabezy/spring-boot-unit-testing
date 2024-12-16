@@ -119,6 +119,4 @@ class ApplicationExampleTest {
                 () -> assertEquals(88.31, studentGrades.findGradePointAverage(mathGrades))
         );
     }
-
-
 }
